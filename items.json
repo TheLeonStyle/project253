@@ -1,0 +1,46 @@
+[
+  {
+    "imageSrc": "./img/01.jpg",
+    "title": "Гостевой дом «Олений ручей»",
+    "address": "Джубга, ул. Зелёная, д. 8",
+    "services": ["parking", "breakfast", "wifi", "playground"],
+    "price": "1 600",
+    "term": {
+      "night": 1,
+      "human": 3
+    }
+  },
+  {
+    "imageSrc": "./img/02.jpg",
+    "title": "Гостевой дом «Радужное»",
+    "address": "Джубга, ул. Радужная, д. 9",
+    "services": ["parking", "pool"],
+    "price": "1 200",
+    "term": {
+      "night": 1,
+      "human": 2
+    }
+  },
+  {
+    "imageSrc": "./img/03.jpg",
+    "title": "Гостевой дом «Усадьба Лучкан»",
+    "address": "Джубга, ул. Вилладж, д. 132",
+    "services": ["parking", "breakfast", "wifi"],
+    "price": "1 400",
+    "term": {
+      "night": 1,
+      "human": 5
+    }
+  },
+  {
+    "imageSrc": "./img/04.jpg",
+    "title": "Гостевой дом «Эдельвейс»",
+    "address": "Джубга, ул. Кемпингова, д. 1",
+    "services": ["parking", "breakfast", "wifi", "playground", "pool"],
+    "price": "2 000",
+    "term": {
+      "night": 1,
+      "human": 1
+    }
+  }
+]
